@@ -1,0 +1,39 @@
+{% extends "home/base.html" %}
+
+{% block title %}
+	Wedding Dress
+{% endblock title %}
+
+{% block image_background %}
+	<img src="/media/sample_pics/background.jpg" class="img-fluid" alt="Responsive image">
+{% endblock image_background %}
+
+{% block content %}
+	<nav aria-label="breadcrumb" class="pt-5">
+		<ol class="breadcrumb bg-success">
+	    	<li class="w-100 breadcrumb-item active" aria-current="page">
+	    		<h3><p class="text-center text-white">Wedding Dress</p></h3>
+	    	</li>
+	  	</ol>
+	</nav>
+
+	<main role="main" class="container">
+		<div class="" >
+			<main class="row">
+				{% for dt in data %}
+					<div class="card col-6 container border border-danger" style="">
+					  <img src="{{ dt.image.url }}" class="weddress-img mx-auto" alt="...">
+					  <div class="card-body">
+					    <h2><a class="article-title" href="{% url 'dress_detail' dt.id %}">
+					    	<p class="text-center">{{ dt.name }}</p>
+					    </a></h2>
+					  </div>
+					</div>
+				{% endfor %}
+			</main>
+		</div>
+		<h5><a class="container" href="{% url 'dresses_home' %}">
+			<p class="text-right">>>> More Dresses</p>
+		</a></h5>
+	</main>
+{% endblock content %}

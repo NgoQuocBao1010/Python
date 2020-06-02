@@ -1,0 +1,75 @@
+{% extends "home/base.html" %}
+
+{% load crispy_forms_tags %}
+{% block title %}
+	{{ dress.name }}
+{% endblock title %}
+
+{% block content %}
+	<main role="main" class="container pt-5">
+		<div class="row">
+			<div class="col-7 card">
+				<img src="{{ dress.image.url }}" class="weddress-imgdetails py-2" alt="...">
+			</div>
+			<div class="ml-5">
+				<form method="POST" action="#">
+					{% csrf_token %}
+					<h1><p class="text-info">{{ dress.name }}</p></h1>
+
+					<div class="py-5">
+						<h3><p class="text-secondprimary">SalesPrice: {{ dress.salesprice }} VND</p></h3>
+						<h3><p class="text-secondprimary">
+							Rental Price: {{ dress.rental_price }} VND
+						</p></h3>
+					</div>
+
+					<div class="form-group">
+					  <label for="sel1"><h3>Size:</h3></label>
+					  <select class="form-control" id="sel1" name="size">
+					  	{% if dress.sizeS %}
+							<option value="S">S</option>
+						{% endif %}
+
+						{% if dress.sizeM %}
+							<option value="M">M</option>
+						{% endif %}
+
+						{% if dress.sizeL %}
+							<option value="L">L</option>
+						{% endif %}
+
+						{% if dress.sizeXL %}
+							<option value="XL">XL</option>
+						{% endif %}
+
+					  </select>
+					</div>
+					
+					<div class="input-group mb-3 input-group-lg py-5">
+					    <div class="input-group-prepend">
+					       <span class="input-group-text">Email</span>
+					    </div>
+					    <input type="text" class="form-control" name="email">
+					</div>
+					
+					<div class="input-group mb-3 input-group-lg">
+					    <div class="input-group-prepend">
+					       <span class="input-group-text">Phone Number</span>
+					    </div>
+					    <input type="number" class="form-control" name="p_number">
+					</div>
+					
+					<div class="py-5">
+						<button type="submit" class="btn btn-primary btn-lg btn-block" name="buy" value="confirm" id="CF">
+							Buy
+						</button>
+
+						<button type="submit" class="btn btn-secondary btn-lg btn-block" name="rent" value="confirm" id="CF">
+							Rent
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</main>
+{% endblock content %}

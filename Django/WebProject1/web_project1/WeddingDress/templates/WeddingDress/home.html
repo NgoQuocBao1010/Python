@@ -1,0 +1,23 @@
+{% extends "home/base.html" %}
+
+{% block title %}
+	Wedding Dress
+{% endblock title %}
+
+{% block image_background %}
+	<img src="/media/sample_pics/background.jpg" class="img-fluid" alt="Responsive image">
+{% endblock image_background %}
+
+{% block content %}
+	<main role="main" class=" container col-5 pt-5">
+		{% for dt in data %}
+			<div class="card text-center">
+			  <div class="card-body">
+			  	<img src="{{ dt.image.url }}" class="weddress-imgprofile mx-auto" alt="...">
+			    <h3 class="card-title">{{ dt.name }}</h3>
+			    <a href="{% url 'dress_detail' dt.id %}" class="btn btn-primary">Get Now</a>
+			  </div>
+			</div>
+		{% endfor %}
+	</main>
+{% endblock content %}

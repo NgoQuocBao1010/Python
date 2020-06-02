@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Su",
+				"Sucessfully"
+			],
+			[
+				"us",
+				"User\ttype ⟠"
+			],
+			[
+				"acc",
+				"acct\tbytearray | str | unicode ⟠"
+			],
+			[
+				"Use",
+				"Username_entry\tEntry ⟠"
+			],
+			[
+				"U",
+				"User\ttype ⟠"
+			],
+			[
+				"p",
+				"place\tfunction ⟠"
+			],
+			[
+				"bu",
+				"buttonTextColor\tstr ⟠"
+			],
+			[
+				"re",
+				"relheight"
+			],
+			[
+				"rel",
+				"rely"
+			],
+			[
+				"ca",
+				"canvas2\tCanvas ⟠"
+			],
+			[
+				"a",
+				"appHeight\tint ⟠"
+			],
+			[
+				"in",
+				"inAppGUI\tfunction ⟠"
+			],
+			[
+				"lo",
+				"loginGUI()\tfunction ⟠"
+			],
+			[
+				"de",
+				"destroy()\tfunction ⟠"
+			],
+			[
+				"sub",
+				"subGUI\tunknown ⟠"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"ex",
+				"except \tkeyword ⟠"
+			],
+			[
+				"su",
+				"submitSUFunction()\tfunction ⟠"
+			],
+			[
+				"m",
+				"messagebox\tmodule ⟠"
+			],
+			[
+				"Pa",
+				"Password_entry\tEntry ⟠"
+			],
+			[
+				"Us",
+				"Username_entry\tEntry ⟠"
+			],
+			[
+				"cre",
+				"createAccountButton\tButton ⟠"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"s",
+				"showerror(…)\tfunction ⟠"
+			],
+			[
+				"pa",
+				"passEntry\tEntry ⟠"
+			],
+			[
+				"S",
+				"Sans"
+			],
+			[
+				"E",
+				"Entry\ttype ⟠"
+			],
+			[
+				"app",
+				"appHeight\tint ⟠"
+			],
+			[
+				"r",
+				"root\tTk ⟠"
+			],
+			[
+				"del",
+				"deleteUser(…)\tfunction ⟠"
+			],
+			[
+				"sh",
+				"shelve\tmodule ⟠"
+			],
+			[
+				"v",
+				"viewAccountData\tfunction ⟠"
+			],
+			[
+				"di",
+				"dirPath\tstr ⟠"
+			],
+			[
+				"ma",
+				"makeNewDirectories(…)\tfunction ⟠"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"bin",
+				"binaryFileName"
+			],
+			[
+				"ac",
+				"acctype\tunknown ⟠"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"u",
+				"userpath\tstr ⟠"
+			],
+			[
+				"bao",
+				"bao123"
+			],
+			[
+				"op",
+				"openDatabase()\tfunction ⟠"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"admin",
+				"adminFile\tstr ⟠"
+			],
+			[
+				"test",
+				"test123"
+			],
+			[
+				"co",
+				"correct_password(…)\tfunction ⟠"
+			],
+			[
+				"n",
+				"neigh\tunknown ⟠"
+			],
+			[
+				"ge",
+				"get_the_neighbour(…)\tfunction ⟠"
+			],
+			[
+				"min",
+				"minValue\tunknown ⟠"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"get",
+				"get_the_node(…)\tfunction ⟠"
+			],
+			[
+				"el",
+				"ele_index\tNoneType | int ⟠"
+			],
+			[
+				"t",
+				"top()\tfunction ⟠"
+			],
+			[
+				"c",
+				"contains\tfunction ⟠"
+			],
+			[
+				"e",
+				"ele_index\tunknown ⟠"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"i",
+				"index1\tNoneType | int ⟠"
+			],
+			[
+				"inde",
+				"index2\tNoneType | int ⟠"
+			],
+			[
+				"pos",
+				"pos2"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"he",
+				"heapsize"
+			],
+			[
+				"pr",
+				"priority_values\tlist ⟠"
+			],
+			[
+				"f",
+				"format\tfunction ⟠"
+			],
+			[
+				"Ind",
+				"IndexedPriorityQueue(…)\ttype ⟠"
+			],
+			[
+				"posi",
+				"position_map"
+			],
+			[
+				"val",
+				"value_of"
+			],
+			[
+				"compa",
+				"compare_pri(…)\tfunction ⟠"
+			],
+			[
+				"le",
+				"left_child_pos\tint ⟠"
+			],
+			[
+				"compare_",
+				"compare_pri"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"to",
+				"top_keyindex(…)\tfunction ⟠"
+			],
+			[
+				"top",
+				"topIndex\tunknown ⟠"
+			],
+			[
+				"ls",
+				"lst_i2\tlist ⟠"
+			],
+			[
+				"lst_i",
+				"lst_i2\tunknown ⟠"
+			],
+			[
+				"h",
+				"heap\tlist ⟠"
+			],
+			[
+				"l",
+				"lst_index\tunknown ⟠"
+			],
+			[
+				"sw",
+				"swim(…)\tfunction ⟠"
+			],
+			[
+				"elemen",
+				"element_list\tlist ⟠"
+			],
+			[
+				"hea",
+				"heapsize\tint ⟠"
+			],
+			[
+				"heap",
+				"heapsize"
+			],
+			[
+				"node",
+				"nodeIndex\tunknown ⟠"
+			],
+			[
+				"no",
+				"node\tint ⟠"
+			],
+			[
+				"ri",
+				"rightNode"
+			],
+			[
+				"is",
+				"is_priority_orders(…)\tfunction ⟠"
+			],
+			[
+				"neigh",
+				"neighbours"
+			],
+			[
+				"ord",
+				"ordering\tlist ⟠"
+			],
+			[
+				"ne",
+				"neighbours\tunknown ⟠"
+			],
+			[
+				"get_the_",
+				"get_the_weight\tfunction ⟠"
+			],
+			[
+				"A",
+				"AdjacecyListGrap\ttype ⟠"
+			],
+			[
+				"g",
+				"graph\tunknown ⟠"
+			],
+			[
+				"d",
+				"dfs"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"R",
+				"River_cordinates\ttuple ⟠"
+			],
+			[
+				"Tr",
+				"Tree_cordinates\ttuple ⟠"
+			],
+			[
+				"cr",
+				"create_a_matrix(…)\tfunction ⟠"
+			],
+			[
+				"str",
+				"start\tunknown ⟠"
+			],
+			[
+				"fi",
+				"find_connected_components(…)\tfunction ⟠"
+			],
+			[
+				"cop",
+				"components_list\tunknown ⟠"
+			],
+			[
+				"F",
+				"False\tbool ⟠"
+			],
+			[
+				"ad",
+				"Adjacency_List"
+			],
+			[
+				"G",
+				"Graph\tlist ⟠"
+			],
+			[
+				"IN",
+				"Instruction_label\ttkinter.Label ⟠"
+			],
+			[
+				"In",
+				"Instruction\tdict ⟠"
+			],
+			[
+				"li",
+				"list\ttype ⟠"
+			],
+			[
+				"I",
+				"Instruction\tfunction ⟠"
+			],
+			[
+				"cont",
+				"content_array\tint | list ⟠"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"al",
+				"already_login\tbool ⟠"
+			],
+			[
+				"Pass",
+				"Password"
+			],
+			[
+				"fe",
+				"Frame(…)\ttype ⟠"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"en",
+				"encode_password(…)\tfunction ⟠"
+			],
+			[
+				"ceasa",
+				"ceasar_encode\tdict ⟠"
+			],
+			[
+				"cea",
+				"ceasar_encode\tdict ⟠"
+			],
+			[
+				"bre",
+				"breakdown_list\tlist ⟠"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"ap",
+				"appear_time\tint | list ⟠"
+			],
+			[
+				"si",
+				"sides_length\tdict ⟠"
+			],
+			[
+				"b",
+				"box2\tlist ⟠"
+			],
+			[
+				"bo",
+				"box2\tlist ⟠"
+			],
+			[
+				"remo",
+				"remove_zero(…)\tfunction ⟠"
+			],
+			[
+				"box",
+				"box1"
+			],
+			[
+				"fa",
+				"factorial\tfunction ⟠"
+			],
+			[
+				"la",
+				"lst_of_leaf\tlist ⟠"
+			],
+			[
+				"st",
+				"stepsToPrime(…)\tfunction ⟠"
+			],
+			[
+				"br",
+				"break\tkeyword ⟠"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python/Project/S_M_P_2/Main.py",
+		"/D/Python/Project/SaveMyPassword/login_gui.py",
+		"/D/Python/Project/S_M_P_2/Test.py",
+		"/D/Python/Project/SaveMyPassword/main.py",
+		"/D/Python/Basic/Lessons/string/string_(in_python_3).py",
+		"/D/Python/Basic/Lessons/string/chuoi(string).py",
+		"/D/Python/Basic/Lessons/string/cac_phan_tu_trong_chuoi.py",
+		"/D/Python/Project/SaveMyPassword/LoginSystem.py",
+		"/D/Python/Project/S_M_P_2/UsersData.py",
+		"/D/Python/Project/SaveMyPassword/GUI/mainGui.py",
+		"/D/Python/Project/S_M_P_2/UsersData",
+		"/D/Python/alo.py",
+		"/D/InformationTec/Graph Theory/Python/Dijkstra Algorithm/DijkstraAl.py",
+		"/D/Python/Data Structure/Queue/Priority.py",
+		"/D/Python/Project/LoginSystem/tttgui2.py",
+		"/D/Python/Project/LoginSystem/TicTacToe.py",
+		"/D/InformationTec/Graph Theory/Python/Topological Sort/Shortest_path_DAC.py",
+		"/D/Python/Data Structure/Queue/Test.py",
+		"/D/InformationTec/Graph Theory/Python/Topological Sort/first_ex.py",
+		"/D/InformationTec/Graph Theory/Python/BFS/shortest_path_on_matrix.py",
+		"/D/InformationTec/Graph Theory/Python/BFS/first_ex.py",
+		"/D/InformationTec/Graph Theory/Python/DFS/ConectedComponent.py",
+		"/D/InformationTec/Graph Theory/Python/DFS/DFSfirstex.py",
+		"/D/InformationTec/Graph Theory/Python/DFS/halo.py",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings",
+		"/D/InformationTec/Graph Theory/Python/test.py",
+		"/D/Python/Project/SaveMyPassword/Test.py",
+		"/D/InformationTec/Graph Theory/Python/DFSfirstex.py",
+		"/D/Python/Project/Calculator/Matrix.py",
+		"/D/Python/Codelearn IO/Ex3/b3.py",
+		"/D/Python/Project/LoginSystem/GUI-login.py",
+		"/D/Python/Project/Calculator/Calculator_gui_postfix.py",
+		"/D/Python/Project/MyFirstEverGame/TheMainGame.py",
+		"/D/InformationTec/fibonacci.py",
+		"/D/InformationTec/program/FinalTest/Question2.cpp",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Cpp.sublime-build",
+		"/C/Users/Asus/Desktop/fcpp.cpp",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/Cpp_language.sublime-build",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/User/C_language.sublime-build",
+		"/D/Python/Codelearn IO/Ex1/test.py",
+		"/D/Python/Codelearn IO/Ex1/b1.py",
+		"/D/Python/Codelearn IO/Ex2/b2.py",
+		"/D/Python/Codelearn IO/Ex2/b3.py",
+		"/D/Python/Basic/Lessons/List_Tuple_Set/list_in_python_2.py",
+		"/D/Python/Basic/Lessons/List_Tuple_Set/list_in_python.py",
+		"/D/Python/Codelearn IO/Ex2/b1.py",
+		"/D/Python/Advanced Algorithm/Intermediate Python/IP.py",
+		"/D/Python/Codelearn IO/Ex1/b3.py",
+		"/D/Python/Codelearn IO/Ex1/b2.py",
+		"/D/Python/CodelearnWar",
+		"/C/Users/Asus/AppData/Local/Temp/kite_tutorial.py",
+		"/D/Python/test.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LoginSystem.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

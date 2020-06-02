@@ -1,0 +1,35 @@
+{% extends "home/base.html" %}
+
+{% block title %}
+	Wedding Dress
+{% endblock title %}
+
+{% block image_background %}
+	<img src="/media/sample_pics/background.jpg" class="img-fluid" alt="Responsive image">
+{% endblock image_background %}
+
+{% block content %}
+
+	<main role="main" class=" container col-7 pt-5">
+		<div class="py-5">
+			<h1 class="alert-success">Thanks for purchasing!!</h1>
+			<h4>Please check your email account for cofirmation!</h4>
+		</div>
+
+		<div class="card mx-auto">
+		  <img class="card-img-top weddress-imgdetails mx-auto" src="{{ info.image_url }}" alt="Card image">
+		  <div class="card-body">
+		    <h2 class="card-title">{{ info.name }}</h2>
+		    <h4><p class="card-text">Size: {{ info.size }}</p></h4>
+
+		    {% if info.method == 'buy' %}
+		    	<h5 class="card-text">You have boutght this product with the price of {{ info.price }} VND</h5>
+		    {% elif info.method == 'rent' %}
+		    	<h5 class="card-text">You have rented this product with the price of {{ info.price }} VND</h5>
+		    {% endif %}
+
+		    <a href="{% url 'web_home' %}" class="btn btn-secondary">Continue Shopping</a>
+		  </div>
+		</div>
+	</main>
+{% endblock content %}
